@@ -91,6 +91,12 @@ If you're annoyed by the __pycache__ files
 ```
 find . | grep -E "(__pycache__|\.pyc|\.pyo$)" | xargs rm -rf
 ```
+
+## Docs for AWS
+
+`COMING SOON!`
+
+
 ### Additional Documentation
 * [Flask](http://flask.pocoo.org/) - Flask Documentation 
 * [Flask SQLAlchemy](http://flask-sqlalchemy.pocoo.org/2.3/) - the ORM for the database
